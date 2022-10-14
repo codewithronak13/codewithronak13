@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codewithronak13
+- 👋 Hi, I’m Ronak Patel
 - 👀 I’m interested in Front-end Development 
 - 🌱 I’m currently learning Front-end development 
 - 📫 How to reach me 📧codewithrk1315@gmail.com
